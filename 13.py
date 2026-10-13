@@ -1,0 +1,9 @@
+'''
+to check the number is 0 or non zero.
+'''
+
+num= int(input("Enter the Number : "))
+if num==0 :
+	print("The number is zero.")
+else :
+	print("The number is non zero.")
